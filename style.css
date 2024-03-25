@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+/*width :375px pour le mobile*/
+#youbi {
+
+height: fit-content;
+width: 1440px;
+display: grid;
+align-items: center;
+
+}
+header { 
+    height: 88vh;
+    width: 100%;
+    display:grid;
+    background-image: url(./images/desktop/image-hero.jpg);
+    background-size: cover;
+    
+    
+}
+header nav{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+
+}
+.logo{
+    width: fit-content ;
+    margin-left: 9%;
+    color: white;
+
+}
+.boxh {
+    text-orientation: sideways;
+    margin-left: 10x;
+    padding: 2%;
+    height: fit-content;
+    width: fit-content;
+    border: solid;
+border-color: white;
+font-size: xx-large;
+color: white;
+
+}
+.title{
+    display: flex;
+    gap: 62%;
+    background-image: url(./images/desktop/image-hero.jpg);
+    background-size: cover;
+    position: static;
+}
+.in {
+    width: 100%;
+    height: fit-content;
+    background-color: black;
+    margin: 12px;
+
+}
+.section2 {
+    height: 46vh;
+    width: 71%;
+    display: flex;
+    margin: 11%;
+}
+#section1{
+    height: fit-content;
+    margin-left: 10%;
+    margin-top: 10%;
+    display: grid;
+}
+.sect{
+    font-size: 52%;
+    background-color: white;
+    height: 28vh;
+    width: fit-content;
+    margin: 29%;
+    padding-top: 6vh;
+    box-sizing: border-box;
+    justify-self: right;
+    align-self: flex-end;
+    position: absolute;
+}
+#s1{
+    height: 16vh;
+    width: 100%;
+    display: flex;
+    background-color: red;
+    align-items: center;
+    gap: 66%;
+}
+button{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-self: right;
+    align-self: center;
+}
+
+.special{
+    height: 30vh;
+    width: 15%;
+    margin-left: 32%;
+    position: absolute;
+    font-size: 80%;
+    background-color: white;
+}
+.photo{
+    background-image: url(./images/desktop/image-interactive.jpg);
+    background-size: cover;
+    height: 55vh;
+    width: 50%;
+    position: static;
+}
+.s1{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: flex-end;
+}
+#Section3{
+    height: 10vh;
+    width: 100%;
+    background-color: white;
+    gap: 60%;
+}
+button{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-self: right;
+}
+.do{
+    width: 76vw;
+    height: 25vh;
+    background-color: black;
+}
+.ss{
+
+    
+
+}
